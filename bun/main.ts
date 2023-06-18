@@ -1,6 +1,6 @@
 import vixeny from "vixeny/fun"
 
-
+//Please let me know if you find it difficult to read, each file is fully documented with the expected beauvoir
 
 // Basics
 import urlParams from "./basic/urlParams"
@@ -28,6 +28,7 @@ export default  {
         { hasName: "http://localhost:3000/"}
     )(
         [
+            //An example of hello world
             {
                 path: "/",
                 f: () => "Hello world"
