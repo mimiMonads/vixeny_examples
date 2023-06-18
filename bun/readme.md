@@ -7,7 +7,7 @@
 
 # Vixeny 
 
-This project demonstrates the usage of Vixeny, a web handler for Node.js. It shows various use cases of Vixeny like handling parameters, queries, headers, requests, responses, serving static files.
+This project demonstrates the usage of Vixeny, a web handler for Bun, It shows various use cases of Vixeny like handling parameters, queries, headers, requests, responses, serving static files.
 
 
 ### Installing
